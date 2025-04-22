@@ -58,3 +58,8 @@ Enter your choice (1-4): 3
 Students with scores above 90:
 Zara - 96.0
 ```
+## 👨‍💻 Author
+
+Made by [Milan Sajiv](https://github.com/MilanSajiv) — powered by Python 🐍  
+Feel free to fork ⭐, share 🔗, and improve 🔧!
+
