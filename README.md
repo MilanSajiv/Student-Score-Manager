@@ -23,6 +23,9 @@ A simple, interactive Python CLI app to manage student scores.
 ```bash
 python student_score_manager.py
 
+
+```
+
 ## 🧪 Example Session
 
 ```text
@@ -54,3 +57,4 @@ Menu:
 Enter your choice (1-4): 3
 Students with scores above 90:
 Zara - 96.0
+```
